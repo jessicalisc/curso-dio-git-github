@@ -4,7 +4,7 @@ Este repositório tem o intuito de fazer um breve resumo dos melhores insights q
 
 
 # 🚀 Explorando o Versionamento de Código com Git e GitHub
-👩‍💻 Era uma vez... uma ex-desenvolvedora que resolveu atualizar suas habilidades de versionamento! E adivinhom? O Git e o GitHub continuam firmes e fortes, e eu também! 💪
+👩‍💻 Era uma vez... uma ex-desenvolvedora que resolveu atualizar suas habilidades de versionamento! E adivinha? O Git e o GitHub continuam firmes e fortes, e eu também! 💪
 
 Durante esse curso incrível sobre Versionamento de Código , revisitei conceitos que estavam guardados no "stash" da minha memória e aprendi algumas boas práticas para manter meus commits organizados (e não virar um "commit final v2.0 FINAL MESMO"). 😅
 
